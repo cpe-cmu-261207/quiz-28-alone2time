@@ -13,9 +13,7 @@ btnG.onclick = () =>{
   callApi();
 };
 
-btnG.onload = () => {
-  mainCard
-}
+
 
 async function callApi() {
 
